@@ -6,5 +6,5 @@ SageBot, an innovative AI solution designed for developers, serves as the ultima
 ## Features
 
 1. Automatic Summarization
-2. Support for Multiple Resources
-2. Customization Options: 
+2. Support for Multiple Sources
+2. Customization Options
